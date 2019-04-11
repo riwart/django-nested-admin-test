@@ -1,6 +1,6 @@
 Django==2.2
 django-grappelli==2.12.2
-django-nested-admin==3.2.1
+django-nested-admin==3.2.2
 gunicorn==19.9.0
 python-monkey-business==1.0.0
 pytz==2018.9
